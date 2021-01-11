@@ -1,5 +1,3 @@
-#SOURCE (https://docs.djangoproject.com/en/3.1/) (https://docs.djangoproject.com/en/2.0/)
-
 import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
